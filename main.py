@@ -1,5 +1,5 @@
 def code_to_edit(a, b):
-    return a + b
+    return (a + b) * (a - b)
 
 def main():
     first = 5
